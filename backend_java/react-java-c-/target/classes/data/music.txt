@@ -1,0 +1,10 @@
+34
+4;Con mua ngang qua;1/1/1900;hay;ngh;a;a;5
+6;Con mua ngang qua;1/1/1900;hay;ngh;a;a;5
+7;Con mua ngang qua;1/1/1900;hay;ngh;a;a;5
+8;ha qua;17/8/2000;;;;;3
+9;ha qua;17/8/2000;;;;;3
+11;Con mua ngang qua;1/1/1900;hay;ngh;a;a;5
+12;Con mua ngang qua;1/1/1900;hay;ngh;a;a;5
+32;Con mua ngang qua;1/1/1900;hay;ngh;a;a;5
+33;Con mua ngang qua;1/1/1900;hay;ngh;a;a;5
